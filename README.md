@@ -1,2 +1,2 @@
-# conding
-trabalhos conding
+# coding
+trabalhos coding
